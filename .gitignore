@@ -1,10 +1,4 @@
-*.class
+.*
+!.gitignore
 
-# Package Files #
-*.jar
-*.war
-*.ear
-
-*.idea
-*.iml
 target
