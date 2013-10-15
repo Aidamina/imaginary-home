@@ -17,7 +17,7 @@
 package com.imaginary.home.cloud.device;
 
 import com.imaginary.home.cloud.ControllerRelay;
-import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
+//import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
 import org.dasein.persist.Memento;
 import org.dasein.persist.PersistenceException;
 import org.dasein.persist.PersistentCache;
